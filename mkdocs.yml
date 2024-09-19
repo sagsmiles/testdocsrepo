@@ -1,0 +1,15 @@
+site_name: Sample Documentation
+
+nav:
+  - Home: index.md
+  - Features and Services:
+      - Overview: features/featuresservices.md
+      - Levels:
+          - Sample1: 
+            - Overview: features/levels/sample1/sample1.md
+            - SubInfo: features/levels/sample1/subinfo1.md
+          - Sample2: features/levels/sample2.md
+          - Sample3: features/levels/sample3.md
+  - Architecture Details: architecture.md
+  - Code Reference: codeRef.md
+  - Administration: admin.md
